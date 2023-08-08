@@ -1,3 +1,4 @@
+![logo](https://github.com/AyushJaiswal19/AyushJaiswal19/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(1).png)
 <h1 align="center">Hi 👋, I'm Ayush Jaiswal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
